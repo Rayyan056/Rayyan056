@@ -84,6 +84,9 @@ const Rayyan = {
     
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+    [![OracleDB](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+    [![PGAdmin](https://img.shields.io/badge/PGAdmin-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
     
     
 - 🎛️ Application and Tools:
