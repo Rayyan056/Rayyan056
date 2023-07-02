@@ -96,12 +96,18 @@ const Rayyan = {
     [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
     [![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/codecommit/)
 
-- 🎛️ DevOps:
+- 🏭⚙️ DevOps:
  
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Route53](https://img.shields.io/badge/Route53-%2340AFD4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/route53/)
   [![Nginx](https://img.shields.io/badge/Nginx-%23009688.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
+- 🎛🛠️ Integration and Communication:
+
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E83CD.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-%2300758F.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
     
 </p>
