@@ -96,15 +96,11 @@ const Rayyan = {
 <a href="https://github.com/Rayyan056"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayyan056&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="450"  alt="usamadevops"/></a>
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    
+## 📞 Contact
 
+Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/usamadevops/usamadevops/blob/output/github-contribution-grid-snake.gif)    
-
-### Here's my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
-
-### Thank you for visiting my profile 🤓 
+- Email: rayyanirfan@gmail.com
+- Portfolio: [riyan-irfan.vercel.app](https://riyan-irfan.vercel.app)
 
