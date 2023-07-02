@@ -47,7 +47,7 @@ const Rayyan = {
 
 <p align="center">
 
-- 📋 Languages: 
+- 📋 Frontend: 
     
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +55,10 @@ const Rayyan = {
     ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
     ![typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)   
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-
+    [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+    [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+    [![Angular.js](https://img.shields.io/badge/Angular.js-%23DD0031.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angular.io/)
+    [![EJS](https://img.shields.io/badge/EJS-%23FBEAE1.svg?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
    
     
 - 🎨 Frameworks
