@@ -105,10 +105,10 @@ const Rayyan = {
 
 - 🎛🛠️ Integration and Communication:
 
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E83CD.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-[![Selenium](https://img.shields.io/badge/Selenium-%2300758F.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-
+  [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+  [![Socket.IO](https://img.shields.io/badge/Socket.IO-%230E83CD.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+  [![Selenium](https://img.shields.io/badge/Selenium-%2300758F.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+  
     
 </p>
 
