@@ -3,11 +3,14 @@
 <img align='right' src="https://media0.giphy.com/media/YDWBD5MiyRfOSgHG3v/giphy.gif?cid=ecf05e47gwhevnbr1vr5v9ps9po3rv37v3zo2knp10907bto&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
 
+
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
 👨‍💻 Crafting seamless and user-friendly web experiences is my forte. With expertise in both frontend and backend development, I bring a holistic approach to building dynamic and responsive applications.
 
 💼 Currently focusing on mastering the latest web technologies and frameworks, I thrive in fast-paced environments where innovation and creativity are valued.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Some further details about myself  
 
@@ -29,7 +32,7 @@ const Rayyan = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting and connecting with new people!</b> If you'd like to chat or say hi, feel free to reach out - I'm always happy to make new connections! 😊</em>
+<em><b>In the vast realm of programming, I find immense delight in interacting with fellow developers, exchanging knowledge, and collaborating on innovative projects. 😃 </em>
 
 
 
