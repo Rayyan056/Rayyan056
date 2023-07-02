@@ -33,7 +33,7 @@ Hello! I'm a passionate full stack developer with expertise in building robust a
 
 ## 💻 Coding Animation
 
-![Coding Animation](https://example.com/animated_boy_coding.gif)
+![Coding Animation](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 ## 📞 Contact
 
