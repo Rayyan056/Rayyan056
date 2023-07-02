@@ -4,13 +4,6 @@
 
 <a href = 'https://riyan-irfan.vercel.app/'>https://riyan-irfan.vercel.app/ </a>
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
- -->
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
 👨‍💻 Crafting seamless and user-friendly web experiences is my forte. With expertise in both frontend and backend development, I bring a holistic approach to building dynamic and responsive applications.
@@ -21,21 +14,20 @@
 
 ```javascript
 const Rayyan = {
-    title: "Senior Full Stack Developer",
-    code: ["JavaScript", "Python", "Java", "C#"],
-    askMeAbout: ["web development", "tech", "app development", "SEO"],
-    technologies: {
-        frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js","Angular.js","EJS"],
-        backend: ["Node.js", "Express.js", "Python (Flask)", "Spring-Boot",".Net","NestJs","Apollo Server"],
-        mobileApp: ["React Native"],
-        databases: ["MongoDB", "MySQL", "SQLite", "OracleDB","PGAdmin"],
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        misc: ["Firebase", "Socket.IO", "Selenium"]
-    },
-    architecture: ["Serverless Architecture", "Bullet Proof architecture", "Microservice architecture" "Single Page Applications"],
-    fact: "Did you know that the first computer bug was an actual bug? In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term 'debugging' was coined when the moth was removed from the machine."
+  jobTitle: "Senior Full Stack Developer",
+  programmingLanguages: ["JavaScript", "Python", "Java", "C#"],
+  askMeAbout: ["web development", "tech", "app development", "SEO"],
+  technologies: {
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS"],
+    backend: ["Node.js", "Express.js", "Python (Flask)", "Spring-Boot", ".Net", "NestJs", "Apollo Server"],
+    mobileApp: ["React Native"],
+    databases: ["MongoDB", "MySQL", "SQLite", "OracleDB", "PGAdmin"],
+    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+    misc: ["Firebase", "Socket.IO", "Selenium"]
+  },
+  architecture: ["Serverless Architecture", "Bullet Proof architecture", "Microservice architecture", "Single Page Applications"],
+  fact: "Did you know that the first computer bug was an actual bug? In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term 'debugging' was coined when the moth was removed from the machine."
 };
-
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting and connecting with new people!</b> If you'd like to chat or say hi, feel free to reach out - I'm always happy to make new connections! 😊</em>
