@@ -1,8 +1,7 @@
 <h2>&nbsp;<img src="https://slackmojis.com/emojis/52157-laptop/download" width="30"/>Passionate Full Stack Developer | Robust, Scalable Solutions
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/YDWBD5MiyRfOSgHG3v/giphy.gif?cid=ecf05e47gwhevnbr1vr5v9ps9po3rv37v3zo2knp10907bto&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
-<p><em>Software Engineer at  CUST <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 <a href = 'https://riyan-irfan.vercel.app/'>https://riyan-irfan.vercel.app/ </a>
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
@@ -12,10 +11,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
  -->
-### 📫 Like to meet me?
+🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+👨‍💻 Crafting seamless and user-friendly web experiences is my forte. With expertise in both frontend and backend development, I bring a holistic approach to building dynamic and responsive applications.
 
+💼 Currently focusing on mastering the latest web technologies and frameworks, I thrive in fast-paced environments where innovation and creativity are valued.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
