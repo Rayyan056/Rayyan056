@@ -6,9 +6,9 @@
 ## 👋 Introduction
 
 <div style="display:flex;">
-  <p>
+  <div>
 Hello! I'm a passionate full-stack developer with expertise in building robust and scalable web applications. With a strong foundation in both frontend and backend technologies, I strive to create seamless user experiences while ensuring the reliability and performance of the applications I develop.
-</p>
+</div>
 <div>
   <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NzFjbHl0dDhtd3pkZjlqbWF4dG1waWdlNWFsNml1dTJjNjJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
