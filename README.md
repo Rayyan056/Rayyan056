@@ -93,7 +93,7 @@ const Rayyan = {
 
 <p align="left">
     <a href="https://github.com/usamadevops"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan056&theme=tokyonight&hide_border=true"  width="500" alt="Rayyan056"/></a>
-<a href="https://github.com/Rayyan056"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayyan056&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="450"  alt="usamadevops"/></a>
+
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     
