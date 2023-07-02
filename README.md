@@ -1,4 +1,4 @@
-<h2> &nbsp; <img src="https://slackmojis.com/emojis/52157-laptop/download" width="30"/>Passionate Full Stack Developer | Robust, Scalable Solutions
+<h2>&nbsp;<img src="https://slackmojis.com/emojis/52157-laptop/download" width="30"/>Passionate Full Stack Developer | Robust, Scalable Solutions
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at  CUST <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
