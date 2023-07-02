@@ -20,7 +20,7 @@ const Rayyan = {
   programmingLanguages: ["JavaScript", "Python", "Java", "C#"],
   askMeAbout: ["web development", "tech", "app development", "SEO"],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS","React Native"],
     backend: ["Node.js", "Express.js", "Python (Flask)", "Spring-Boot", ".Net", "NestJs", "Apollo Server"],
     mobileApp: ["React Native"],
     databases: ["MongoDB", "MySQL", "SQLite", "OracleDB", "PGAdmin"],
@@ -57,6 +57,7 @@ const Rayyan = {
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     [![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+    [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
     [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
     [![Angular.js](https://img.shields.io/badge/Angular.js-%23DD0031.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angular.io/)
     [![EJS](https://img.shields.io/badge/EJS-%23FBEAE1.svg?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
