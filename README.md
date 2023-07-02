@@ -6,7 +6,7 @@
 ## 👋 Introduction
 
 <div style="display:flex;">
-  <div>
+  <div style="width:400px;">
 Hello! I'm a passionate full-stack developer with expertise in building robust and scalable web applications. With a strong foundation in both frontend and backend technologies, I strive to create seamless user experiences while ensuring the reliability and performance of the applications I develop.
 </div>
 <div>
