@@ -46,7 +46,7 @@ const Rayyan = {
 
 <p align="center">
 
-- 📋 Programming Languages:
+- 💻 Programming Languages:
 
     [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -85,8 +85,7 @@ const Rayyan = {
     [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
     [![OracleDB](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
     [![PGAdmin](https://img.shields.io/badge/PGAdmin-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
-    
-    
+  
 - 🎛️ Application and Tools:
 
     [![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
@@ -96,7 +95,13 @@ const Rayyan = {
     ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
     [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
     [![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/codecommit/)
-  
+
+- 🎛️ DevOps:
+  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Route53](https://img.shields.io/badge/Route53-%2340AFD4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/route53/)
+  [![Nginx](https://img.shields.io/badge/Nginx-%23009688.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
     
 </p>
 
