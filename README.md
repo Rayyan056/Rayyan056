@@ -31,6 +31,10 @@ Hello! I'm a passionate full stack developer with expertise in building robust a
 - TypeScript: 15%
 - Java: 5%
 
+## 💻 Coding Animation
+
+![Coding Animation](https://example.com/animated_boy_coding.gif)
+
 ## 📞 Contact
 
 Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
