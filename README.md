@@ -10,7 +10,7 @@
 
 💼 Currently focusing on mastering the latest web technologies and frameworks, I thrive in fast-paced environments where innovation and creativity are valued.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### Some further details about myself  
 
 ```javascript
 const Rayyan = {
