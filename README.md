@@ -11,7 +11,7 @@ Hello! I'm a passionate full-stack developer with expertise in building robust a
 </div>
 </p>
 <div>
-  ![Coding Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NzFjbHl0dDhtd3pkZjlqbWF4dG1waWdlNWFsNml1dTJjNjJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+  <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF3NzFjbHl0dDhtd3pkZjlqbWF4dG1waWdlNWFsNml1dTJjNjJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
 ## ✨ Skills
 
