@@ -24,6 +24,7 @@ Hello! I'm a passionate full-stack developer with expertise in building robust a
   "hobbies": ["🎮 Gaming", "🎸 Playing Guitar"],
   "interests": ["📚 Reading", "🚴‍♀️ Cycling"]
 }
+
 ## 💻 Most Used Programming Languages in Projects
 
 ## 📞 Contact
