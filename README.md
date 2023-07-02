@@ -2,7 +2,6 @@
 <img src="https://media1.giphy.com/media/KCwh6ZXWDqFMs/giphy.gif?cid=ecf05e47pqz7x6lsm5lgy5cf0a9p0z2okjx1tb7xqynlpylj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/YDWBD5MiyRfOSgHG3v/giphy.gif?cid=ecf05e47gwhevnbr1vr5v9ps9po3rv37v3zo2knp10907bto&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
-<a href = 'https://riyan-irfan.vercel.app/'>https://riyan-irfan.vercel.app/ </a>
 
 🚀 Full Stack Developer | Web Enthusiast | Problem Solver
 
@@ -118,6 +117,6 @@ const Rayyan = {
 
 Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
 
-- Email: rayyanirfan@gmail.com
+- Email: rayyanirfan50@gmail.com
 - Portfolio: [riyan-irfan.vercel.app](https://riyan-irfan.vercel.app)
 
