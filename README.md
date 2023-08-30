@@ -16,7 +16,7 @@
 
 ```javascript
 const Rayyan = {
-  jobTitle: "Senior Full Stack Developer",
+  jobTitle: "Full Stack Developer",
   programmingLanguages: ["JavaScript", "Python", "Java", "C#"],
   askMeAbout: ["web development", "tech", "app development", "SEO"],
   technologies: {
