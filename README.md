@@ -18,11 +18,11 @@
 const Rayyan = {
   jobTitle: "Full Stack Developer",
   programmingLanguages: ["JavaScript", "Python", "Java", "C#"],
-  askMeAbout: ["web development", "tech", "app development", "SEO"],
+  askMeAbout: ["Web development", "Tech", "Game", "Mobile App development", "SEO"],
   technologies: {
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS","React Native"],
+    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Vue.js", "Angular.js", "EJS", "React Native"],
     backend: ["Node.js", "Express.js", "Python (Flask)", "Spring-Boot", ".Net", "NestJs", "Apollo Server"],
-    mobileApp: ["React Native"],
+    mobileApp: ["React Native", "FlutterFlow"],
     databases: ["MongoDB", "MySQL", "SQLite", "OracleDB", "PGAdmin"],
     devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
     misc: ["Firebase", "Socket.IO", "Selenium"]
