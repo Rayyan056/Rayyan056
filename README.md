@@ -122,5 +122,4 @@ const Rayyan = {
 Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
 
 - Email: rayyanirfan50@gmail.com
-- Portfolio: [riyan-irfan.vercel.app](https://riyan-irfan.vercel.app)
 
