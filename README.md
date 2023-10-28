@@ -108,11 +108,11 @@ const Rayyan = {
 </p>
 
 ### Github stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rayyan056&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyan-developer&theme=radical)](https://git.io/streak-stats) 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left">
-    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyan056&theme=tokyonight&hide_border=true"  width="500" alt="Rayyan056"/></a>
+    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyan-developer&theme=tokyonight&hide_border=true"  width="500" alt="riyan-developer"/></a>
 
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -121,5 +121,5 @@ const Rayyan = {
 
 Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
 
-- Email: rayyanirfan50@gmail.com
+- Email: riyanirfandev@gmail.com
 
