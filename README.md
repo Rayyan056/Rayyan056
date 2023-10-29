@@ -121,5 +121,5 @@ const Rayyan = {
 
 Feel free to reach out to me via email or through the contact form on my portfolio website. I'm always open to exciting collaboration opportunities and discussing new projects!
 
-- Email: riyanirfandev@gmail.com
+- Email: devriyanirfan@gmail.com
 
